@@ -1,6 +1,6 @@
 {
-"name": "Happy Pool",
-"description": "You're alive, and you can do a lot. Just be happy!",
-"ticker": "HAPPY",
-"homepage": "https://happy-pool.webflow.io/"
+	"name": "Happy Pool",
+	"description": "Pool Cardano pour gens joyeux",
+	"ticker": "HAPPY",
+	"homepage": "https://happy-pool.webflow.io/"
 }
